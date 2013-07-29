@@ -28,5 +28,10 @@ cara add nya tinggal ketik git add 'nama-file' terus commitnya git commit -m "pe
 kalo udah tinggal di push dengan mengetik 
 
 git push origin master 
+terus isi user name dan password
+udah itu tunggu sampe push nya beres
 
-4. edit
+4. sukses...
+tada... kalo sukses, maka di repo yang anda bikin tadi akan ada file baru yang barusan anda push... sukses
+
+greeting.. ente udah caem maenan git...hehehe
